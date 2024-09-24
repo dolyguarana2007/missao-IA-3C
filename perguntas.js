@@ -1,29 +1,29 @@
 export const perguntas = [
     
-        enunciado: "Pergunta 1",
+        enunciado: "qual marca vc prefere?",
         alternativas: [
             {
-                texto: "Alternativa 1 da pergunta 1",
+                texto: "nike",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Ta certo",
+                    "Isso aí"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 1",
+                texto: "adidas",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Ta errado",
+                    "Essa não"
                     ]
             }           
             
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "",
         alternativas: [
             {
-                texto:"Alternativa 1 da pergunta 2",
+                texto:"",
                 afirmacao: [
                     "afirmacao 1",
                     "afirmacao 2"
