@@ -20,39 +20,39 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "qual é mais caro",
         alternativas: [
             {
-                texto:"",
+                texto:"iphone",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "ta certo",
+                    "isso mesmo"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 2",
+                texto: "Samsung",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "ta errado",
+                    "esse é mais barato"
                     ]
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "qual rede social vc prefere?",
         alternativas: [
             {
-                texto:"Alternativa 1 da pergunta 3",
+                texto:"Tik Tok",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "sim",
+                    "ta certo"
                     ]
             },
             {
-                texto:"Alternativa 2 da pergunta 3",
+                texto:"instagram?",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "legal",
+                    "isso ta errado"
                     ]
             }
             
